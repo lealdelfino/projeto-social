@@ -16,6 +16,7 @@ body {
 body {
   background: url("../imagens/lineage\ \(1\).jpg") no-repeat left center;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 main {
@@ -35,15 +36,14 @@ section#telefone {
 
 iframe#tela {
   position: relative;
-  top: 226px;
-  left: 826px;
-  width: 265px;
-  height: 470px;
+  top: 78px;
+  left: 18px;
+  width: 269px;
+  height: 471px;
 }
 
 section#redes-sociais {
   position: relative;
-  bottom: 470px;
 }
 
 section#redes-sociais img {
